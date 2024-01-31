@@ -40,7 +40,7 @@ body {
   background: #212837;
   grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
-.play-board .food {
+.play-board .paper {
   background-image: url("art/Paper.png");
   background-repeat: no-repeat;
   background-size: 22px;
